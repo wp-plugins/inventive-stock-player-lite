@@ -11,7 +11,7 @@
 	In the lite version you can use the only the widget.
 	Author: Francesco Puglisi - Inventive 3d
 	Author URI: http://www.inventive3d.com/
-	Version: 0.1
+	Version: 0.11
 	Text Domain: inventive-stock-video-audio-player-lite
     Domain Path: /
 	License: GNU General Public License v2 or later
