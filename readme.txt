@@ -4,7 +4,7 @@ Donate link: http://inventive3d.com/
 Tags: mp3 player, video player, audio player, spectrum analyzer, cool player, cool mp3 player, pond5, audiojungle, soundcloud, videohive, mediaplayer
 Requires at least: 3.8
 Tested up to: 4.3
-Stable tag: 4.3
+Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
