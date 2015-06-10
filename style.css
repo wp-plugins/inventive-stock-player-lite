@@ -1,0 +1,166 @@
+/*
+	Inventive stock video and audio player - lite
+	http://www.inventive3d.com
+	This free wordpress plugin is created for videomakers and musician which have their video and audioproject on different music libraries and 			    need to have an unique video/audio player for their wordpress site.
+	Just paste the link from your favourite library and magically it will be played inside your wordpress website with the default wp audio player.
+	You can also add a buy link in post and woocommerce products.
+	There is support for: audiojungle, pond5, videohive, luckstock, soundcloud.
+	It extends wordpress audio/video shortocode, plus there is a cool spectrum analyzer for audio!
+	Plugin offers these features in posts/products, a widget and a shortcode.
+	In the lite version you can use the only the widget.
+
+	----------------------------------------------------------------------------------------------------------------*/
+
+	/*
+	* Written by Francesco Puglisi <info@inventive3d.com>, June 2015
+	*/
+	
+@charset "utf-8";
+/* CSS Document */
+
+.inventive_stock_player
+{
+width: 100%;
+}
+
+.inventive_stock_player_checkbox
+{
+margin-left: 20px !important;	
+}
+
+.wp-video
+{
+height: auto !important;	
+}
+
+.mejs-layers
+{
+
+top:0;
+left:0;
+height: auto;
+width: 100%;
+min-height: 30px;	
+}
+
+.wp-video-shortcode
+{
+width: 100%;
+height: auto;	
+}
+
+.mejs-mediaelement
+{
+position: relative !important;
+height: auto !important;
+}
+
+.mejs-poster
+{
+position: absolute !important;	
+}
+
+.mejs-container, .mejs-inner
+{
+height: auto;	
+}
+
+.mejs-container
+{
+	height: 100% !important;
+}
+
+.animatronic .mejs-container
+{
+	height: '' !important;
+}
+
+.mejs-overlay
+{
+width: 100% !important;	
+}
+
+.mejs-container, .inventive-stock-audio-container
+{
+width: 100% !important;	
+}
+
+.inventive-stock-audio-container
+{
+
+}
+
+.spectrum-bottom-full-width
+{
+  position: fixed;
+  width: 100%;
+  height: 15%;
+  background: transparent;
+  z-index: 999999;
+  bottom: 0;	
+}
+
+.spectrum-bottom-left
+{
+position: fixed;
+  width: 20%;
+  height: 15%;
+  background: transparent;
+  z-index: 999999;
+  bottom: 0;
+  margin: 1%;	
+  padding: 0.2%;
+}
+
+.spectrum-bottom-right
+{
+position: fixed;
+  width: 20%;
+  height: 15%;
+  background: transparent;
+  z-index: 999999;
+  bottom: 0;
+  margin: 1%;
+  right:0;
+   padding: 0.2%;	
+}
+
+
+.spectrum-top-left
+{
+position: fixed;
+  width: 20%;
+  height: 15%;
+  background: transparent;
+  z-index: 999999;
+  top: 0;
+  margin: 1%;
+  left:0;
+  padding: 0.2%;	
+}
+
+
+.spectrum-top-right
+{
+position: fixed;
+  width: 20%;
+  height: 15%;
+  background: transparent;
+  z-index: 999999;
+  top: 0;
+  margin: 1%;
+  right:0;	
+  padding: 0.2%;
+}
+
+.inventive_stock_audio_spectrum
+{
+display: none;
+position:fixed;
+z-index:999999;	
+}
+
+.woocommerce-breadcrumb
+{
+display: none;	
+}

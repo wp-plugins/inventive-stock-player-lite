@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-06-10 11:44+0100\n"
+"PO-Revision-Date: 2015-06-10 11:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/general-options.php:56 ../inc/widget.php:31
+msgid "Inventive stock player"
+msgstr ""
+
+#: ../admin/general-options.php:63
+msgid "Default configuration"
+msgstr "Configurazione generale"
+
+#: ../admin/general-options.php:90
+msgid "Player background color"
+msgstr "Colore di sfondo del player"
+
+#: ../admin/general-options.php:96
+msgid "Spectrum analyzer options"
+msgstr "Opzioni dello spectrum analyzer"
+
+#: ../admin/general-options.php:98
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: ../admin/general-options.php:99
+msgid "Bars color"
+msgstr "Colore delle barre"
+
+#: ../admin/general-options.php:100
+msgid "Background opacity"
+msgstr "Opacità dello sfondo"
+
+#: ../admin/general-options.php:101
+msgid "Bars number"
+msgstr "Numero di barre"
+
+#: ../admin/general-options.php:102
+msgid "Bars width"
+msgstr "Larghezza barre"
+
+#: ../admin/general-options.php:103
+msgid "Bars distance"
+msgstr "Distanza barre"
+
+#: ../admin/general-options.php:105
+msgid "Spectrum position"
+msgstr "Posizione dello spectrum"
+
+#: ../admin/general-options.php:107
+msgid "Bottom full width"
+msgstr "Piena larghezza inferiore"
+
+#: ../admin/general-options.php:108
+msgid "Bottom left"
+msgstr "In basso a sinistra"
+
+#: ../admin/general-options.php:109
+msgid "top left"
+msgstr "In alto a sinistra"
+
+#: ../admin/general-options.php:110
+msgid "Bottom right"
+msgstr "In basso a destra"
+
+#: ../admin/general-options.php:111
+msgid "top right"
+msgstr "In alto a destra"
+
+#: ../admin/metaboxes.php:23 ../admin/metaboxes.php:25
+#: ../admin/metaboxes.php:27
+msgid "Inventive stock video and audio player"
+msgstr ""
+
+#: ../admin/metaboxes.php:71 ../inc/widget.php:84
+msgid ""
+"Paste here your stock video/audio link (audiojungle, luckstock, videohive, "
+"pond5)"
+msgstr ""
+"Incolla qui il tuo link (audiojungle, luckstock, videohive, pond5, "
+"soundcloud)"
+
+#: ../inc/classes.php:90 ../inc/widget.php:87
+msgid "Referral"
+msgstr ""
+
+#: ../inc/classes.php:93 ../inc/widget.php:106
+msgid "Show spectrum analyzer?"
+msgstr "Mostra lo spectrum analyzer?"
+
+#: ../inc/classes.php:98
+msgid "List options"
+msgstr "Opzioni lista"
+
+#: ../inc/classes.php:100 ../inc/classes.php:128
+msgid "Don't show"
+msgstr "Non mostrare"
+
+#: ../inc/classes.php:101 ../inc/classes.php:129
+msgid "Show on featured image"
+msgstr "Mostra nell'immagine in evidenza"
+
+#: ../inc/classes.php:102 ../inc/classes.php:130
+msgid "Show above title"
+msgstr "Mostra sopra al titolo"
+
+#: ../inc/classes.php:103 ../inc/classes.php:131
+msgid "Show under title"
+msgstr "Mostra sotto il titolo"
+
+#: ../inc/classes.php:106 ../inc/classes.php:139 ../inc/widget.php:90
+msgid "Show buy button"
+msgstr "Mostra il bottone compra"
+
+#: ../inc/classes.php:110 ../inc/classes.php:143 ../inc/widget.php:94
+msgid "Autoplay"
+msgstr ""
+
+#: ../inc/classes.php:114 ../inc/classes.php:147 ../inc/widget.php:98
+msgid "Loop"
+msgstr ""
+
+#: ../inc/classes.php:118 ../inc/classes.php:151 ../inc/widget.php:102
+msgid "Preload"
+msgstr ""
+
+#: ../inc/classes.php:123
+msgid "Single options"
+msgstr "Opzioni singole"
+
+#: ../inc/classes.php:126
+msgid "Show on single post/product"
+msgstr "Mostra nel prodotto/post singolo"
+
+#: ../inc/classes.php:132
+msgid "Show above description"
+msgstr "Mostra sopra la descrizione"
+
+#: ../inc/classes.php:133
+msgid "Show under description"
+msgstr "Mostra sotto la descrizione"
+
+#: ../inc/classes.php:450 ../inc/classes.php:458
+msgid "Pond5"
+msgstr ""
+
+#: ../inc/classes.php:466
+msgid "Audiojungle"
+msgstr ""
+
+#: ../inc/classes.php:475
+msgid "videohive"
+msgstr ""
+
+#: ../inc/classes.php:483
+msgid "Luckstock"
+msgstr ""
+
+#: ../inc/classes.php:491
+msgid "Soundcloud"
+msgstr ""
+
+#: ../inc/classes.php:499
+msgid "Buy on"
+msgstr "Compra su"
+
+#: ../inc/widget.php:32
+msgid ""
+"Width this widget you can create a player for stock video and audio from "
+"famous stock libraries"
+msgstr ""
+"Con questo widget puoi creare un player per il tuo audio o video presente "
+"nelle più famose librerie online. "
+
+#: ../inc/widget.php:68
+msgid "New title"
+msgstr "Titolo"
+
+#: ../inc/widget.php:80
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ../inventive-stock-audio-video-player.php:95
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
